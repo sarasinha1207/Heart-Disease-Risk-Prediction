@@ -114,3 +114,9 @@ This helps identify key clinical factors that contribute most strongly to heart 
 - This project is intended as a baseline machine learning model, not a clinical diagnostic tool.
 - No deep learning models or deployment frameworks are used.
 - The emphasis is on understanding the machine learning pipeline and evaluation methodology.
+
+### Author: Sara Sinha
+
+- **Department:** BSc. Computer Science 
+- **Institute:** IIT Patna
+- **Email:** sara_24a12res1207@iitp.ac.in / sara.sinha.100@gmail.com
